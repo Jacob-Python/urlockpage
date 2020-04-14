@@ -1,0 +1,18 @@
+body {
+	background-color: gray;
+	font-family: Arial;
+	font-size: 12
+}
+h1,p,u,h4 {
+	color: #ffffff;
+}
+button {
+	background-color: #008CBA; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+}
